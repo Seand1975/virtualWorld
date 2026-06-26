@@ -1594,6 +1594,22 @@
  "nextlayerid":16,
  "nextobjectid":1,
  "orientation":"orthogonal",
+ "properties":[
+        {
+         "name":"mapDescription",
+         "type":"string",
+         "value":"A virtual office space meant for the akademia co LTD"
+        }, 
+        {
+         "name":"mapImage",
+         "type":"string",
+         "value":"akademiaOffice.png"
+        }, 
+        {
+         "name":"mapName",
+         "type":"string",
+         "value":"Akademia-Office"
+        }],
  "renderorder":"right-down",
  "tiledversion":"1.12.2",
  "tileheight":32,

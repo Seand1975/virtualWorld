@@ -656,6 +656,22 @@
  "nextlayerid":12,
  "nextobjectid":1,
  "orientation":"orthogonal",
+ "properties":[
+        {
+         "name":"mapDescription",
+         "type":"string",
+         "value":"An overview map showing the Victoria Frontier"
+        }, 
+        {
+         "name":"mapImage",
+         "type":"string",
+         "value":"main-map.png"
+        }, 
+        {
+         "name":"mapName",
+         "type":"string",
+         "value":"Start-Map"
+        }],
  "renderorder":"right-down",
  "tiledversion":"1.12.2",
  "tileheight":32,
