@@ -1609,6 +1609,11 @@
          "name":"mapName",
          "type":"string",
          "value":"Akademia-Office"
+        }, 
+        {
+         "name":"script",
+         "type":"string",
+         "value":"src\\main.ts"
         }],
  "renderorder":"right-down",
  "tiledversion":"1.12.2",
