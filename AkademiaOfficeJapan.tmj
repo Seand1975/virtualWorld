@@ -111,7 +111,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/@\/akademia-1781172060\/akademia-world\/Akademia%20World\/japan-side"
+                 "value":"https:\/\/play.workadventu.re\/@\/akademia-1781172060\/akademia-world\/Akademia%20World\/JapanVictoriaFrontier"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -228,7 +228,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/@\/akademia-1781172060\/akademia-world\/Akademia%20World\/main-map"
+                 "value":"https:\/\/play.workadventu.re\/@\/akademia-1781172060\/akademia-world\/Akademia%20World\/MainMapUgandaShizuoka"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -1725,12 +1725,12 @@
         {
          "name":"mapName",
          "type":"string",
-         "value":"Akademia-Office"
+         "value":"AkademiaOffice"
         }, 
         {
          "name":"script",
          "type":"string",
-         "value":"src\\main.ts"
+         "value":"src\/main.ts"
         }],
  "renderorder":"right-down",
  "tiledversion":"1.12.2",

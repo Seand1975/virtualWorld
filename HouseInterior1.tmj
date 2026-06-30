@@ -72,7 +72,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/@\/akademia-1781172060\/akademia-world\/Akademia%20World\/japan-side"
+                 "value":"https:\/\/play.workadventu.re\/@\/akademia-1781172060\/akademia-world\/Akademia%20World\/JapanVictoriaFrontier"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -420,9 +420,24 @@
  "orientation":"orthogonal",
  "properties":[
         {
+         "name":"mapDescription",
+         "type":"string",
+         "value":"Interior of a house"
+        }, 
+        {
+         "name":"mapImage",
+         "type":"string",
+         "value":"houseinterior1.png"
+        }, 
+        {
          "name":"mapName",
          "type":"string",
          "value":"HouseInterior"
+        }, 
+        {
+         "name":"script",
+         "type":"string",
+         "value":"src\/main.ts"
         }],
  "renderorder":"right-down",
  "tiledversion":"1.12.2",
